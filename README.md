@@ -5,8 +5,8 @@ Este repositório reúne minhas criações, modificações e melhorias em objeto
 Em breve, novos objetos 3D estáticos serão adicionados, trazendo funcionalidades e possibilidades de interação com os jogadores, expandindo a imersão e as experiências de gameplay.
 
 ## Criaturas
-- [❄️Yeti](Yeti.md)
+- [Yeti](Yeti.md)
 
 ## Objetos 3D estáticos com interação
-- [🔥Fogão a gás](Oven.md)
-- [🔥Fogueira com suporte para Carcaça](FireplaceWithSupport.md)
+- [Fogão a gás](Oven.md)
+- [Fogueira com suporte para Carcaça](FireplaceWithSupport.md)
