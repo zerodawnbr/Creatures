@@ -3,7 +3,7 @@
 O **Oven** é um sistema avançado de simulação térmica e culinária para DayZ. Diferente das fogueiras padrão, este fogão opera com uma lógica de processamento independente, gestão de calor otimizada (Universal Temperature Source) e mecânicas de segurança auto-geridas para evitar desperdício de gás e explosões.
 
 <img src="https://github.com/zerodawnbr/Modelos3D/blob/main/images/fogao-a-gas.jpg" alt="Oven">
----
+
 
 ## ⚙️ Características Físicas e Instalação
 
