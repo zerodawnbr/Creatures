@@ -80,6 +80,8 @@ Jogadores podem exibir suas proezas de caça montando um troféu decorativo do Y
 * **Deployable:** Ao segurar o suporte em mãos, o jogador pode posicionar em qualquer lugar.
 <img src="https://github.com/zerodawnbr/Creatures/blob/main/images/yeti-kit-suporte-carcaca.png" alt="Suporte Carcaça">
 <img src="https://github.com/zerodawnbr/Creatures/blob/main/images/yeti-suporte-carcaca.png" alt="Suporte Carcaça">
+<img src="https://github.com/zerodawnbr/Modelos3D/blob/main/images/yeti_suportecomfogueira1.png" alt="Suporte Carcaça">
+<img src="https://github.com/zerodawnbr/Modelos3D/blob/main/images/yeti_suportecomfogueira2.png" alt="Suporte Carcaça">
 ---
 
 ## 🗺️ Itens Estáticos (Para Mappers / DayZ Editor)
