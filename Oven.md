@@ -23,10 +23,21 @@ A interface do fogão está dividida para maximizar a organização culinária:
    * 3 Slots de `DirectCooking` (A, B, C)
    * 4 Slots de `Smoking` (A, B, C, D)
    * *Uso ideal: Anexar carnes diretamente para assar rapidamente.*
-3. **Grade Interna (Cargo - 40 Slots):** Uma grelha de 10x4.
+3. **Grade Interna:** Uma grelha com diversos slots.
    * *Uso ideal: Descongelar múltiplas latas de comida, garrafas de água ou acumular peças de carne.*
 
+<img src="https://github.com/zerodawnbr/Modelos3D/blob/main/images/static_stove_inventory.png" alt="Oven">
+
 > **Nota Técnica:** O script lê e cozinha simultaneamente **todos** os itens que estiverem nos Slots de Anexo e dentro da Grade Interna (Cargo). O motor ignora panelas, frigideiras e o próprio botijão de gás para evitar que sejam arruinados.
+
+---
+
+## Galeria
+
+<img src="https://github.com/zerodawnbr/Modelos3D/blob/main/images/static_stove_front.png" alt="Oven">
+
+<img src="https://github.com/zerodawnbr/Modelos3D/blob/main/images/static_stove_top.png" alt="Oven">
+
 
 ---
 
